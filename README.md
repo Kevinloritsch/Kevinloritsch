@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Kevin, and welcome to my Github 👋! Check out my...
+ - [Website](https://kevinloritsch.github.io/)
+ - [LinkedIn](https://www.linkedin.com/in/kevin-loritsch)
 
 <!--
 **Kevinloritsch/Kevinloritsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
