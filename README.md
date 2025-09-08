@@ -2,6 +2,10 @@
  - [Website](https://kevinloritsch.github.io/)
  - [LinkedIn](https://www.linkedin.com/in/kevin-loritsch)
 
+![](https://github-readme-stats.vercel.app/api?username=kevinloritsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+
 <!--
 **Kevinloritsch/Kevinloritsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
