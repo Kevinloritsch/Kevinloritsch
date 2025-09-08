@@ -1,6 +1,6 @@
 ## Hi there! I'm Kevin, and welcome to my Github 👋! Check out my...
- - [Website](https://kevinloritsch.github.io/)
- - [LinkedIn](https://www.linkedin.com/in/kevin-loritsch)
+- <a href="https://kevinloritsch.github.io/" target="_blank">Website</a>
+- <a href="https://www.linkedin.com/in/kevin-loritsch" target="_blank">LinkedIn</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=kevinloritsch&theme=dark)<br/>
 
